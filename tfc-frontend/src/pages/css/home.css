@@ -1,0 +1,13 @@
+.Footer{
+    margin-top: -20px;
+    position:relative;
+}
+
+.Carousel{
+    /* width: 100vw; */
+    position:relative;
+}
+
+.homebody{
+    position:fixed;
+}

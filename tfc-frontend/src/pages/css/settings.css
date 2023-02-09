@@ -1,0 +1,17 @@
+.Tabs{
+    position: relative;
+    margin-left: 130px;
+}
+
+.Body{
+    margin-left:200px;
+    margin-top:100px;
+    display: flex;
+    height: auto;
+    position: relative;
+}
+
+.SettingHeader{
+  margin-left: 200px;
+  position: relative;
+}

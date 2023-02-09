@@ -1,0 +1,19 @@
+.PageHeader{
+    margin-left: 300px;
+    position: relative;
+    width: 100%;
+    height: 130px;
+}
+
+.classBody{
+    position:fixed;
+}
+
+.filter{
+    position:relative;
+    margin-top:50px;
+}
+
+.resultBody{
+    position:relative;
+}

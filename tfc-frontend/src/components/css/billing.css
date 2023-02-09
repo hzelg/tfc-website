@@ -1,0 +1,25 @@
+.action_notification{
+    position:fixed;
+    width: 100%;
+}
+
+.subscription_panel{
+    position:relative;
+    margin-left:0px;
+}
+
+.subscription_info{
+}
+
+.no_subscription_panel{
+    position:relative;
+}
+
+.buttons{
+    display: flex;
+}
+
+.Title{
+    weight:"bold";
+    size:"2xl"
+}
